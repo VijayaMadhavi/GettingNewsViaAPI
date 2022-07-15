@@ -13,7 +13,7 @@
 
 @end
 
-const NSString *newsURL = @"https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=09683acaca6e4d68b45d95e49db30835";
+const NSString *newsURL = @"https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=;
 
 @implementation ViewController {
 
